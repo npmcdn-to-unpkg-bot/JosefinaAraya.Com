@@ -1,0 +1,85 @@
+body { background: #dd6e98 url("../images/bg.jpg") no-repeat fixed center top !important; }
+.tagcloud a:hover,
+.flexslider ul.flex-direction-nav li a:hover { background-color: #272727; }
+a:hover { color: #2e2e2e; }
+.gotop:hover { background: rgba(0,0,0,0.7) ; }
+#navigation ul#menu-nav > li a { color: #FFF; }
+#header-fix.header-fix,
+#navigation ul#menu-nav > li:hover,
+#navigation ul#menu-nav > li.current_page_item,
+#navigation ul#menu-nav > li.current-menu-item,
+#navigation ul#menu-nav > li.current-menu-paren,
+#navigation ul#menu-nav > li.current-menu-ancestor > a { background-color: #ea9eb6; }
+#navigation ul#menu-nav > li:hover > a,
+#navigation ul#menu-nav > li.current_page_item > a,
+#navigation ul#menu-nav > li.current-menu-item > a,
+#navigation ul#menu-nav > li.current-menu-paren > a,
+#navigation ul#menu-nav > li.current-menu-ancestor > a { color: #FFF; }
+.blog-v1 article,
+.widget-title.box-title,
+.widget-title.box-title h2 { color: #2e2e2e; }
+.blog-v1 article .cat-links,
+.blog-v1 article .article-formats,
+.divider-colors,
+.top-search,
+.pagenavi span.pagenavi-current,
+a.more-link,
+button,
+.btn-link,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+span.bd-criteria-percentage,.slider-flex ol.flex-control-paging li a.flex-active,.folio-cat a, .folio-tag a, #folio-main ul#filters li a.selected { background-color: #ea9eb6; }
+.comment-reply-link,
+.comment-reply-link:link,
+.comment-reply-link:active { color: #ea9eb6; }
+.pagenavi span.pagenavi-current,
+.pagenavi a:hover { border-color: transparent; }
+.pagenavi a:hover,
+.blog-v1 article .entry-meta a,
+.widget-title.box-title a,
+ul.tabs_nav li.active a,
+ul.tabs_nav li a:hover,
+.widget.bd-login .login_user .bio-author-desc a,
+.widget a:hover,
+.bd-tweets ul.tweet_list li.twitter-item a { color: #272727; }
+.copyright,
+.copyright a,
+.post-navigation,
+.post-navigation a,
+.post-navigation .post-nav-left .meta-nav,
+.post-navigation .post-nav-right .meta-nav,
+.box-title h2 a,
+.box-title h2,
+.post-author-box p,
+.comment-body p,
+.comment-header h3,
+.comment-header h3 a,
+.comment-header .comment-meta a,
+.comment-header .comment-meta,
+#respond,
+#respond a,
+.post-navigation .post-nav-left .meta-nav i,
+.post-navigation .post-nav-right .meta-nav i,
+.page-title,
+.page-title a,
+.taxonomy-description,
+.taxonomy-description a,
+.tagcloud a:hover,
+.logo-name,
+.logo-name a,
+.sitemap_content,
+.sitemap_content a,
+.timeline-title,
+.timeline-title a,
+.timeline-list,
+.timeline-list a,
+.timeline-list .timeline-item .timeline-date span, .post-sharing-box .title,.folio-content h3, .folio-entry p, .folio-info, .folio-info a , .folio-entry, .folio-entry a, .folio-entry li, .folio-entry li:before{ color: #FFF; }
+.copyright a:hover { text-decoration: underline; }
+.folio-info ul li{ border-color: transparent; border-color: rgba( 255,255,255, 0.2 )  }
+.folio-container.loading div#loading {
+    background: url("../images/b-loader.gif") no-repeat center;
+}
+#page-title {
+    background-color: #111;
+}

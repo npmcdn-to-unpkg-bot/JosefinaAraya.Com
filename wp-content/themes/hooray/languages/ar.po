@@ -1,0 +1,1461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hooray\n"
+"POT-Creation-Date: 2014-04-02 05:24+0200\n"
+"PO-Revision-Date: 2014-04-02 05:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: bdayh <a@amrsadek.com>\n"
+"Language: ar_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:10 ../loop.php:233
+msgid "oops!"
+msgstr "خطأ"
+
+#: ../404.php:12 ../loop.php:235
+msgid "Sorry, but you are looking for something that isn't here, back to"
+msgstr ""
+"المعذرة, ولكن لم يتم العثور على نتائج تطابق كلمة البحث .. حاول البحث "
+"بإستخدام كلمات مختلفة ."
+
+#: ../404.php:13 ../loop.php:236
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: ../archive.php:10
+#, php-format
+msgid "Day: %s"
+msgstr "أرشيف يوم: <span>%s</span>"
+
+#: ../archive.php:13
+#, php-format
+msgid "Month: %s"
+msgstr "أرشيف شهر: <span>%s</span>"
+
+#: ../archive.php:16
+#, php-format
+msgid "Year: %s"
+msgstr "أرشيف سنة: <span>%s</span>"
+
+#: ../archive.php:19
+msgid "Archives"
+msgstr "التصنيفات"
+
+#: ../author.php:9 ../templates/templet-authors.php:37
+msgid "Author"
+msgstr "الكُتاب"
+
+#: ../comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"هذه التدوينة محمية بكلمة مرور . أدخلها لتتمكن من الإطلاع على التعليقات ."
+
+#: ../comments.php:17
+msgid "No Comments"
+msgstr "لا توجد تعليقات"
+
+#: ../comments.php:17
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#: ../comments.php:17 ../includes/widgets/comments.php:30
+msgid "Comments"
+msgstr "تعليقات"
+
+#: ../comments.php:30
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة"
+
+#: ../comments.php:39
+msgid "Name"
+msgstr "الإسم"
+
+#: ../comments.php:40
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+#: ../comments.php:41
+msgid "Website"
+msgstr "الموقع"
+
+#: ../comments.php:43
+msgid " Required fields are marked"
+msgstr " الحقول المطلوبة مشار لها بـ"
+
+#: ../comments.php:46
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "يجب عليك <a href=\"%s\">تسجيل الدخول</a> لتتمكن من إضافة تعليق ."
+
+#: ../comments.php:47
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"مُسجل الدخول كـ <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"تسجيل "
+"الخروج من هذا الحساب\">تسجيل الخروج؟</a>"
+
+#: ../comments.php:48
+msgid "Your email address will not be published."
+msgstr "لن يتم نشر البريد الإلكتروني ."
+
+#: ../comments.php:49
+msgid "Leave a Reply"
+msgstr "اضف رد"
+
+#: ../comments.php:50
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "أضف رد على %s"
+
+#: ../comments.php:51
+msgid "Cancel reply"
+msgstr "إلغاء الرد"
+
+#: ../comments.php:52
+msgid "Post Comment"
+msgstr "أضف التعليق"
+
+#: ../functions.php:119
+msgid "Navigation Menu"
+msgstr "القائمة الرئيسية"
+
+#: ../functions.php:120
+msgid "Top Menu"
+msgstr "القائمة العلوية"
+
+#: ../functions.php:318
+msgid "Go to..."
+msgstr ""
+
+#: ../functions.php:482
+#, php-format
+msgid "Page %s"
+msgstr "صفحة %s "
+
+#: ../functions.php:590
+msgid "Primary Normal Widget Area"
+msgstr "المربع الجانبي الرئيسي"
+
+#: ../functions.php:592
+msgid "The Primary Normal widget area appears in all pages ."
+msgstr ""
+
+#: ../functions.php:599
+msgid "Post Sidebar"
+msgstr "المربع الجانبي للمقالات"
+
+#: ../functions.php:601
+msgid "This sidebar will be used by all of your posts ."
+msgstr ""
+
+#: ../functions.php:608
+msgid "Page Sidebar"
+msgstr "المربع الجانبي للصفحات"
+
+#: ../functions.php:610
+msgid "This sidebar will be used by all of your standard pages ."
+msgstr ""
+
+#: ../functions.php:617
+msgid "Categories Sidebar"
+msgstr "المربع الجانبي للتصنيفات"
+
+#: ../functions.php:619
+msgid "This sidebar will be used by all of your standard categories ."
+msgstr ""
+
+#: ../functions.php:629
+msgid "Shop Sidebar"
+msgstr "المربع الجانبي للسوق"
+
+#: ../functions.php:631
+msgid "This sidebar will be used by all of your standard Woocommerce ."
+msgstr ""
+
+#: ../functions.php:638
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: ../functions.php:640
+msgid "This sidebar will be used by all of your standard Single Product ."
+msgstr ""
+
+#: ../functions.php:647
+msgid "Shop archive Sidebar"
+msgstr ""
+
+#: ../functions.php:649
+msgid "This sidebar will be used by all of your standard Shop archive ."
+msgstr ""
+
+#: ../functions.php:656
+msgid "Cart"
+msgstr ""
+
+#: ../functions.php:658
+msgid "This sidebar will be used by all of your standard Cart ."
+msgstr ""
+
+#: ../functions.php:742 ../functions.php:777 ../functions.php:815
+#: ../functions.php:846 ../functions.php:1012 ../functions.php:1091
+#: ../single-wportfolio.php:180 ../includes/related-posts.php:58
+#: ../includes/home-builder/cat-2col.php:110
+#: ../includes/home-builder/cat-first.php:106
+#: ../includes/home-builder/cat-left.php:107
+#: ../includes/home-builder/scroll.php:77 ../includes/widgets/related.php:45
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../functions.php:902 ../folio/folio.php:376
+#: ../includes/widgets/search.php:22 ../includes/widgets/search.php:35
+msgid "Search"
+msgstr "بحث"
+
+#: ../functions.php:1822
+msgid "Welcome"
+msgstr "أهلا بك"
+
+#: ../functions.php:1830
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: ../functions.php:1833
+msgid "Your Profile"
+msgstr "الملف الشخصي"
+
+#: ../functions.php:1836
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: ../functions.php:1844 ../functions.php:1918
+#: ../templates/templet-authors.php:54
+msgid "'s site"
+msgstr ""
+
+#: ../functions.php:1847 ../functions.php:1921
+#: ../templates/templet-authors.php:57
+msgid "  on Facebook"
+msgstr ""
+
+#: ../functions.php:1850 ../functions.php:1924
+#: ../templates/templet-authors.php:60
+msgid "  on Twitter"
+msgstr ""
+
+#: ../functions.php:1853 ../functions.php:1927
+#: ../templates/templet-authors.php:63
+msgid "  on Google+"
+msgstr ""
+
+#: ../functions.php:1856 ../functions.php:1930
+#: ../templates/templet-authors.php:66
+msgid "  on Linkedin"
+msgstr ""
+
+#: ../functions.php:1859 ../functions.php:1933
+#: ../templates/templet-authors.php:69
+msgid "  on Flickr"
+msgstr ""
+
+#: ../functions.php:1862 ../functions.php:1936
+#: ../templates/templet-authors.php:72
+msgid "  on YouTube"
+msgstr ""
+
+#: ../functions.php:1865 ../functions.php:1939
+#: ../templates/templet-authors.php:75
+#, fuzzy
+msgid "  on Pinterest"
+msgstr "أخبار في صور"
+
+#: ../functions.php:1873
+msgid "Username"
+msgstr "إسم المستخدم"
+
+#: ../functions.php:1874
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: ../functions.php:1877
+msgid "Remember Me"
+msgstr "تذكرني"
+
+#: ../functions.php:1878 ../includes/widgets/login.php:28
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: ../functions.php:1885
+msgid "Forgot your password?"
+msgstr "نسيت كلمة المرور ؟"
+
+#: ../functions.php:1955
+msgid "Social Networking"
+msgstr ""
+
+#: ../functions.php:2043
+msgid "Previous "
+msgstr "السابق"
+
+#: ../functions.php:2051 ../folio/folio.php:414
+msgid "Next"
+msgstr "التالي"
+
+#: ../functions.php:2122
+msgid "Posted by : "
+msgstr "بواسطة : "
+
+#: ../functions.php:2136
+msgid "Leave a comment"
+msgstr "أضف تعليق"
+
+#: ../functions.php:2136
+msgid "1 Comment"
+msgstr "1 تعليق"
+
+#: ../functions.php:2136
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: ../functions.php:2144
+msgid "In"
+msgstr "في : "
+
+#: ../functions.php:2168
+msgid "Edit"
+msgstr "تعديل"
+
+#: ../functions.php:2188
+msgid " views"
+msgstr "زيارة"
+
+#: ../functions.php:2213
+msgid "views"
+msgstr "زيارة "
+
+#: ../functions.php:2449
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:2449
+msgid " - Edit"
+msgstr " - تعديل"
+
+#: ../functions.php:2455
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك في إنتظار مراجعه المدير."
+
+#: ../functions.php:2462
+msgid "<i class=\"icon-share-alt\"></i> Reply"
+msgstr "<i class=\"icon-share-alt\"></i> رد"
+
+#: ../functions.php:2464
+msgid "<i class=\"icon-mail-reply\"></i> Reply"
+msgstr "<i class=\"icon-mail-reply\"></i> رد"
+
+#: ../functions.php:2480 ../folio/folio.php:315
+msgid "Home"
+msgstr "الرئيسية"
+
+#: ../functions.php:2563
+msgid "Search results for "
+msgstr "نتائج البحث عن : "
+
+#: ../functions.php:2568
+msgid "Posts tagged "
+msgstr ""
+
+#: ../functions.php:2574
+msgid "Articles posted by "
+msgstr "بواسطة : "
+
+#: ../functions.php:2578
+msgid "Error 404 "
+msgstr "خطأ"
+
+#: ../functions.php:2583
+msgid "Page"
+msgstr "صفحة"
+
+#: ../functions.php:3209 ../functions.php:3212
+msgid "I like this article"
+msgstr ""
+
+#: ../loop.php:49
+msgid ", "
+msgstr ""
+
+#: ../loop.php:195 ../includes/slider.php:55
+#: ../includes/home-builder/cat-first.php:62
+#: ../includes/home-builder/cat-left.php:60
+#: ../includes/home-builder/cat-top.php:65
+#: ../includes/home-builder/cat-video.php:104
+#: ../includes/home-builder/recent-posts.php:107
+msgid "Read more"
+msgstr "أقرأ المزيد"
+
+#: ../loop.php:204
+msgid "Read More"
+msgstr "أقرأ المزيد"
+
+#: ../loop.php:207
+msgid "Pages:"
+msgstr "الصفحات : "
+
+#: ../portfolio-four-col.php:71 ../portfolio-grid.php:71
+#: ../portfolio-three-col.php:71 ../portfolio-two-col.php:71
+msgid "Show All"
+msgstr ""
+
+#: ../search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن :  %s"
+
+#: ../single-wportfolio.php:88
+msgid "Project Description "
+msgstr ""
+
+#: ../single-wportfolio.php:92
+msgid "Project info "
+msgstr ""
+
+#: ../single-wportfolio.php:96
+msgid "Address"
+msgstr ""
+
+#: ../single-wportfolio.php:100
+msgid "Phone"
+msgstr ""
+
+#: ../single-wportfolio.php:104
+msgid "Hours of Service"
+msgstr ""
+
+#: ../single-wportfolio.php:108
+#, fuzzy
+msgid "e-mail"
+msgstr "البريد الالكتروني"
+
+#: ../single-wportfolio.php:112
+#, fuzzy
+msgid "website"
+msgstr "الموقع"
+
+#: ../single-wportfolio.php:116
+msgid "Skills Needed"
+msgstr ""
+
+#: ../single-wportfolio.php:120 ../templates/templet-sitemap.php:39
+msgid "Categories"
+msgstr "الأقسام"
+
+#: ../single-wportfolio.php:124 ../templates/templet-sitemap.php:46
+msgid "Tags"
+msgstr "الوسوم"
+
+#: ../single-wportfolio.php:128
+msgid "By"
+msgstr ""
+
+#: ../single-wportfolio.php:132
+msgid "Copyright"
+msgstr ""
+
+#: ../single-wportfolio.php:140
+msgid "Live preview"
+msgstr ""
+
+#: ../single-wportfolio.php:156
+#, fuzzy
+msgid "Related Portfolio item"
+msgstr "مقالات ذات صلة"
+
+#: ../single.php:51
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../single.php:53
+msgid ""
+"<span class=\"meta-nav\"><i class=\"icon-chevron-left\"></i> &nbsp; Previous "
+"Post</span>%title"
+msgstr ""
+"<span class=\"meta-nav\"><i class=\"icon-chevron-right\"></i> &nbsp; السابق</"
+"span>%title"
+
+#: ../single.php:54
+msgid ""
+"<span class=\"meta-nav\">Next Post &nbsp; <i class=\"icon-chevron-right\"></"
+"i></span>%title"
+msgstr ""
+"<span class=\"meta-nav\">التالي &nbsp; <i class=\"icon-chevron-left\"></i></"
+"span>%title"
+
+#: ../single.php:63
+msgid "About"
+msgstr "عن : "
+
+#: ../folio/folio.php:375
+msgid "404 - Page not Found"
+msgstr ""
+
+#: ../folio/folio.php:404
+#, fuzzy
+msgid "Previous"
+msgstr "السابق"
+
+#: ../forcemagic/functions.php:488 ../forcemagic/functions.php:896
+#: ../forcemagic/functions.php:1493 ../includes/tax-meta/tax-meta.php:564
+#: ../includes/tax-meta/tax-meta.php:607
+msgid "Remove"
+msgstr ""
+
+#: ../forcemagic/functions.php:1157
+msgid " Blog Layout - Latest Posts Formats"
+msgstr ""
+
+#: ../forcemagic/functions.php:1158
+msgid "News, Magazin Boxes"
+msgstr ""
+
+#: ../forcemagic/functions.php:1165
+msgid "+ News Box"
+msgstr ""
+
+#: ../forcemagic/functions.php:1166
+msgid "+ Videos"
+msgstr ""
+
+#: ../forcemagic/functions.php:1167
+msgid "+ Gallery"
+msgstr ""
+
+#: ../forcemagic/functions.php:1168
+msgid "+ Recent Posts"
+msgstr ""
+
+#: ../forcemagic/functions.php:1169
+msgid "+ Scrolling Box"
+msgstr ""
+
+#: ../forcemagic/functions.php:1170
+msgid "+ Ads"
+msgstr ""
+
+#: ../forcemagic/functions.php:1226 ../forcemagic/functions.php:1269
+#: ../forcemagic/functions.php:1312 ../forcemagic/functions.php:1381
+#: ../forcemagic/functions.php:1420 ../forcemagic/functions.php:1464
+msgid "MoveBox"
+msgstr ""
+
+#: ../forcemagic/functions.php:1227
+msgid "Photo Albums"
+msgstr ""
+
+#: ../forcemagic/functions.php:1228 ../forcemagic/functions.php:1271
+#: ../forcemagic/functions.php:1313 ../forcemagic/functions.php:1383
+#: ../forcemagic/functions.php:1422 ../forcemagic/functions.php:1466
+msgid "Remove Box"
+msgstr ""
+
+#: ../forcemagic/functions.php:1229 ../forcemagic/functions.php:1272
+#: ../forcemagic/functions.php:1314 ../forcemagic/functions.php:1384
+#: ../forcemagic/functions.php:1423 ../forcemagic/functions.php:1467
+msgid "Settings"
+msgstr ""
+
+#: ../forcemagic/functions.php:1236 ../forcemagic/functions.php:1279
+#: ../forcemagic/functions.php:1319 ../forcemagic/functions.php:1389
+#: ../forcemagic/functions.php:1428
+msgid "Category"
+msgstr ""
+
+#: ../forcemagic/functions.php:1243 ../forcemagic/functions.php:1286
+#: ../forcemagic/functions.php:1396 ../forcemagic/functions.php:1434
+#: ../includes/widgets/comments.php:34
+#: ../includes/widgets/google-follow.php:81 ../includes/widgets/login.php:32
+#: ../includes/widgets/new-in-pic.php:43 ../includes/widgets/newsletter.php:45
+#: ../includes/widgets/search.php:39
+msgid "Title"
+msgstr ""
+
+#: ../forcemagic/functions.php:1248 ../forcemagic/functions.php:1291
+#: ../forcemagic/functions.php:1325 ../forcemagic/functions.php:1401
+#: ../forcemagic/functions.php:1438
+msgid "Number of posts"
+msgstr ""
+
+#: ../forcemagic/functions.php:1270
+msgid "Latest videos"
+msgstr ""
+
+#: ../forcemagic/functions.php:1331
+msgid "Box Layout"
+msgstr ""
+
+#: ../forcemagic/functions.php:1382
+msgid "Scrolling Box"
+msgstr ""
+
+#: ../forcemagic/functions.php:1421 ../includes/widgets/recent-posts.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: ../forcemagic/functions.php:1465
+msgid "Ads"
+msgstr ""
+
+#: ../forcemagic/functions.php:1476 ../forcemagic/functions.php:1483
+msgid "Ads Code"
+msgstr ""
+
+#: ../forcemagic/functions.php:1479 ../forcemagic/functions.php:1487
+msgid "Image Upload"
+msgstr ""
+
+#: ../forcemagic/functions.php:1496
+msgid "Ads Link"
+msgstr ""
+
+#: ../forcemagic/functions.php:1500
+msgid "Alternate Name"
+msgstr ""
+
+#: ../includes/rate.php:237
+msgid "Your Rating"
+msgstr "تصويتك"
+
+#: ../includes/rate.php:238
+msgid "User Rating"
+msgstr "تصويت العضو"
+
+#: ../includes/rate.php:238
+msgid "votes"
+msgstr "تصويت"
+
+#: ../includes/related-posts.php:40 ../includes/widgets/related.php:69
+msgid "Related Posts"
+msgstr "مقالات ذات صلة"
+
+#: ../includes/slider.php:55 ../includes/home-builder/cat-first.php:62
+#: ../includes/home-builder/cat-left.php:60
+#: ../includes/home-builder/cat-top.php:65
+#: ../includes/home-builder/cat-video.php:104
+#: ../includes/home-builder/recent-posts.php:107
+msgid "Permanent Link to"
+msgstr "رابط ثابت لـ"
+
+#: ../includes/social-sharing.php:8
+msgid "Share this Story"
+msgstr "شاركها"
+
+#: ../includes/metaboxes/meta-box.php:340
+msgid "+"
+msgstr ""
+
+#: ../includes/metaboxes/meta-box.php:364
+msgid "&#8211;"
+msgstr ""
+
+#: ../includes/metaboxes/meta-box.php:697
+msgid "RW_Meta_Box Debug:"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:74
+msgid "Video Type"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:78
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:79
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:80
+msgid "Dialymotion"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:84
+msgid "Video ID :"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:108
+msgid "Post Link Text"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:113
+msgid "Post Link Url"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:132
+msgid "Post Quote Text"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:137
+msgid "Post Quote Author"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:157
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:161
+#: ../includes/shortcode/shortcodes/social_button.php:207
+#: ../includes/shortcode/shortcodes/social_button.php:226
+msgid "None"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:162
+msgid "Posts Featured Image"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:163
+msgid "Posts Slideshow"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:164
+msgid "Posts SoundCloud"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:165
+msgid "Posts Video"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:166
+msgid "Posts Google Map"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:170
+msgid "Google Map Url :"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:175
+msgid "Sound Cloud Url :"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:188
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:192
+msgid "Default"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:193
+msgid "Right"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:194
+msgid "Left"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:198
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:205
+msgid "Show / Hide The Post, Meta"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:210
+#: ../includes/metaboxes/theme_metaboxes.php:222
+#: ../includes/metaboxes/theme_metaboxes.php:239
+msgid "Yes"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:211
+#: ../includes/metaboxes/theme_metaboxes.php:223
+#: ../includes/metaboxes/theme_metaboxes.php:240
+msgid "No"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:217
+msgid "Show / Hide Above Post Advertising"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:227
+msgid "Above Post Advertising Code "
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:234
+msgid "Show / Hide Below  Post Advertising"
+msgstr ""
+
+#: ../includes/metaboxes/theme_metaboxes.php:244
+msgid "Below Post Advertising Code"
+msgstr ""
+
+#: ../includes/metaboxes/inc/fields/color.php:44
+#: ../includes/tax-meta/tax-meta.php:922
+msgid "Select a color"
+msgstr ""
+
+#: ../includes/metaboxes/inc/fields/file.php:69
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../includes/metaboxes/inc/fields/image.php:68
+msgid "Order saved"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:15
+msgid "Insert Button"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:45
+#: ../includes/shortcode/shortcodes/social_link.php:38
+msgid "Type of button:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:46
+#: ../includes/shortcode/shortcodes/notifications.php:38
+#: ../includes/shortcode/shortcodes/social_link.php:39
+msgid "Choose a type:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:48
+#: ../includes/shortcode/shortcodes/notifications.php:40
+#: ../includes/shortcode/shortcodes/social_link.php:41
+msgid "Select type"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:49
+msgid "small button"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:50
+msgid "middle button black"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:51
+msgid "large color button"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:55
+#: ../includes/shortcode/shortcodes/social_link.php:81
+msgid "URL for button:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:56
+#: ../includes/shortcode/shortcodes/social_link.php:82
+msgid "Type your URL here:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:60
+#: ../includes/shortcode/shortcodes/social_link.php:86
+msgid "Link target:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:61
+#: ../includes/shortcode/shortcodes/social_link.php:87
+msgid "Check if you want open in new window:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:75
+msgid "Preview:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/buttons.php:81
+#: ../includes/shortcode/shortcodes/googlemaps.php:43
+#: ../includes/shortcode/shortcodes/notifications.php:50
+#: ../includes/shortcode/shortcodes/social_button.php:340
+#: ../includes/shortcode/shortcodes/social_link.php:93
+#: ../includes/shortcode/shortcodes/soundcloud.php:35
+#: ../includes/shortcode/shortcodes/vimeo.php:35
+#: ../includes/shortcode/shortcodes/youtube.php:35
+msgid "Insert"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/googlemaps.php:15
+msgid "Insert Google maps"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:15
+msgid "Insert Notification"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:37
+msgid "Type of notification:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:41
+msgid "Successful"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:42
+msgid "Error"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:43
+msgid "Warning"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/notifications.php:44
+msgid "Info"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:15
+msgid "Insert Share Buttons"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:192
+msgid "Size:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:193
+msgid "Choose a size:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:195
+msgid "Small (15px)"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:196
+msgid "Standard(24px)"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:197
+msgid "Medium(20px)"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:198
+msgid "Tall(60px)"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:202
+msgid "Type of Annotation:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:203
+msgid "Choose a Annotation:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:205
+msgid "Inline"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:206
+msgid "Bubble"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:211
+msgid "Advanced options:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:212
+msgid "HTML5 valid syntax:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:215
+msgid "URL to +1:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:223
+msgid "Count box position:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:224
+msgid "Choose a Position:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:227
+#: ../includes/shortcode/shortcodes/social_button.php:326
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:228
+#: ../includes/shortcode/shortcodes/social_button.php:327
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:232
+msgid "Button size:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:233
+msgid "Large:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:237
+msgid "URL of the page to share:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:238
+msgid "URL(default: URL of the webpage):"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:243
+msgid "Recommended accounts:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:249
+msgid "Via user:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:255
+msgid "Default Tweet text:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:256
+#: ../includes/shortcode/shortcodes/social_button.php:333
+msgid "Text:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:264
+msgid "URL to Like:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:265
+#: ../includes/shortcode/shortcodes/social_button.php:314
+#: ../includes/shortcode/shortcodes/social_button.php:319
+msgid "URL:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:269
+#: ../includes/shortcode/shortcodes/social_button.php:270
+msgid "Send Button:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:274
+msgid "Layout Style:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:275
+#: ../includes/shortcode/shortcodes/social_button.php:324
+msgid "Choose a Layout:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:277
+msgid "Standard"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:278
+msgid "Button Count"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:279
+msgid "Box Count"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:283
+#: ../includes/shortcode/shortcodes/social_button.php:284
+#: ../includes/widgets/fb.php:51
+msgid "Width:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:288
+msgid "Show profile picture:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:289
+msgid "Show Faces:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:293
+msgid "Verb to display"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:294
+msgid "Choose a Verb:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:296
+msgid "Like"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:297
+msgid "Recommend"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:301
+msgid "Color Scheme "
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:302
+msgid "Choose a Scheme:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:304
+msgid "Light"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:305
+msgid "Dark"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:313
+msgid "Page the pin is on:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:318
+msgid "Image to be pinned:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:323
+msgid "Pin Count:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:328
+msgid "No Count"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_button.php:332
+msgid "What they're pinning:"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/social_link.php:16
+msgid "Insert Social Link"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/soundcloud.php:15
+msgid "Insert soundcloud"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/vimeo.php:15
+msgid "Insert vimeo"
+msgstr ""
+
+#: ../includes/shortcode/shortcodes/youtube.php:15
+msgid "Insert Youtube"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:245
+msgid "Delete this image"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:245 ../includes/tax-meta/tax-meta.php:858
+msgid "Delete"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:345
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:577
+msgid "Add"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:854
+msgid "Uploaded files"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:865
+msgid "Upload new files"
+msgstr ""
+
+#: ../includes/tax-meta/tax-meta.php:871
+msgid "Add more files"
+msgstr ""
+
+#: ../includes/widgets/ads120.php:68
+msgid "Ads 120 x 600"
+msgstr ""
+
+#: ../includes/widgets/ads125.php:83
+msgid "Ads 125"
+msgstr ""
+
+#: ../includes/widgets/ads250.php:64
+msgid "Ads 250 x 250"
+msgstr ""
+
+#: ../includes/widgets/ads300.php:71
+msgid "Ads 300 x 300"
+msgstr ""
+
+#: ../includes/widgets/bio-author.php:19
+#, php-format
+msgid "About %s"
+msgstr "عن %s"
+
+#: ../includes/widgets/category-posts.php:33 ../includes/widgets/slider.php:58
+msgid "Category Posts"
+msgstr "مقالات من تصنيف"
+
+#: ../includes/widgets/category-posts.php:42 ../includes/widgets/fb.php:47
+#: ../includes/widgets/related.php:73 ../includes/widgets/twittes.php:125
+#: ../includes/widgets/video.php:46
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/category-posts.php:46
+#: ../includes/widgets/related.php:77 ../includes/widgets/slider.php:62
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/comments.php:38 ../includes/widgets/tabs.php:84
+msgid "Comments Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/fb.php:43
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/widgets/fb.php:55
+msgid "Height:"
+msgstr ""
+
+#: ../includes/widgets/fb.php:59
+msgid "Background Color: (color code without #)"
+msgstr ""
+
+#: ../includes/widgets/fb.php:63
+msgid "Box border Color: (color code without #)"
+msgstr ""
+
+#: ../includes/widgets/fb.php:67
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:13
+msgid "Adds a beautiful Google Plus badge widget."
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:15
+msgid " - Google Plus Badge Box"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:69
+msgid "Find us on Google Plus"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:73
+msgid "Page type"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:86
+msgid "Google+ Page URL"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:91
+msgid "Width"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:96
+msgid "Color Scheme"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:104
+msgid "Layout"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:112
+msgid "Portrait Layout Settings"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:117
+msgid "Cover Photo"
+msgstr ""
+
+#: ../includes/widgets/google-follow.php:122
+msgid "Tagline"
+msgstr ""
+
+#: ../includes/widgets/new-in-pic.php:34
+msgid "News in Pictures"
+msgstr "أخبار في صور"
+
+#: ../includes/widgets/new-in-pic.php:47
+#: ../includes/widgets/popular-posts.php:38
+#: ../includes/widgets/recent-posts.php:38
+#: ../includes/widgets/top-review.php:38
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../includes/widgets/new-in-pic.php:51
+msgid "Posts order"
+msgstr ""
+
+#: ../includes/widgets/new-in-pic.php:53
+msgid "Most recent"
+msgstr ""
+
+#: ../includes/widgets/new-in-pic.php:54
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/newsletter.php:24
+msgid "Enter your e-mail address"
+msgstr "أدخل بريدك الإلكتروني"
+
+#: ../includes/widgets/newsletter.php:27
+#: ../includes/widgets/social-counter.php:68
+msgid "Subscribe"
+msgstr "إشترك"
+
+#: ../includes/widgets/newsletter.php:41
+msgid "Newsletter Widget"
+msgstr "القائمة البريدية"
+
+#: ../includes/widgets/newsletter.php:41
+msgid "Subscribe to our email newsletter."
+msgstr "إشترك في قائمتنا البريدية ليصلك جديد الموقع ."
+
+#: ../includes/widgets/newsletter.php:49
+msgid "Paragraph"
+msgstr ""
+
+#: ../includes/widgets/newsletter.php:55
+msgid "example"
+msgstr ""
+
+#: ../includes/widgets/popular-posts.php:30
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/popular-posts.php:34
+#: ../includes/widgets/recent-posts.php:34
+#: ../includes/widgets/social-counter.php:129
+#: ../includes/widgets/social-links.php:29
+#: ../includes/widgets/top-review.php:34
+msgid "Title : "
+msgstr ""
+
+#: ../includes/widgets/search.php:23
+msgid "All Content"
+msgstr "كل المحتوي"
+
+#: ../includes/widgets/slider.php:66
+msgid "Select Category:"
+msgstr ""
+
+#: ../includes/widgets/slider.php:68
+msgid "All Categories"
+msgstr "جميع التصنيفات"
+
+#: ../includes/widgets/social-counter.php:56
+#: ../includes/widgets/social-counter.php:74
+#: ../includes/widgets/social-counter.php:92
+msgid "Followers"
+msgstr "متابعون"
+
+#: ../includes/widgets/social-counter.php:62
+msgid "Fans"
+msgstr "متابعون"
+
+#: ../includes/widgets/social-counter.php:68
+msgid "Rss"
+msgstr "خلاصات الموقع"
+
+#: ../includes/widgets/social-counter.php:80
+#: ../includes/widgets/social-counter.php:86
+msgid "Subscribers"
+msgstr "متابعون"
+
+#: ../includes/widgets/social-counter.php:125
+msgid "Follow Me"
+msgstr "تابعني"
+
+#: ../includes/widgets/social-counter.php:133
+msgid "Feed URL : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:146
+msgid "Twitter : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:150
+msgid "Facebook Page ID/Name : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:154
+msgid "Google+ Page ID/Name : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:158
+msgid "Youtube User ID : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:162
+msgid "Vimeo Channel Name : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:166
+msgid "Soundcloud User Name : "
+msgstr ""
+
+#: ../includes/widgets/social-counter.php:170
+msgid "Design Style : "
+msgstr ""
+
+#: ../includes/widgets/social-links.php:25
+msgid "Socials Icon"
+msgstr ""
+
+#: ../includes/widgets/tabs.php:25
+msgid "Popular"
+msgstr "الأشهر"
+
+#: ../includes/widgets/tabs.php:30
+msgid "Recent"
+msgstr "الأخيرة"
+
+#: ../includes/widgets/tabs.php:68
+msgid "Tabs"
+msgstr ""
+
+#: ../includes/widgets/tabs.php:76
+msgid "Popular Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/tabs.php:80
+msgid "Recent Number of posts to show:"
+msgstr ""
+
+#: ../includes/widgets/top-review.php:30
+msgid "Top Reviews"
+msgstr "الأعلي تقييماً"
+
+#: ../includes/widgets/twittes.php:114
+msgid "Follow Me @"
+msgstr "تابعني @"
+
+#: ../includes/widgets/twittes.php:129
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../includes/widgets/video.php:42
+msgid "Video"
+msgstr ""
+
+#: ../includes/widgets/video.php:50
+msgid "type"
+msgstr ""
+
+#: ../includes/widgets/video.php:58
+msgid "Video ID:"
+msgstr ""
+
+#: ../includes/widgets/youtube-subscribe.php:34
+msgid "Subscribe to our Channel"
+msgstr "إشترك فى القناة"
+
+#: ../templates/templet-sitemap.php:32
+msgid "Pages"
+msgstr "الصفحات"
+
+#: ../templates/templet-sitemap.php:62
+msgid "Authors"
+msgstr "الأعضاء"
+
+#, fuzzy
+#~ msgid "Your Rating:"
+#~ msgstr "تصويتك"
+
+#~ msgid "No related posts found!"
+#~ msgstr "لا توجد مقالات ذات صلة"
